@@ -439,6 +439,9 @@ amberelectric==1.1.0
 # homeassistant.components.amcrest
 amcrest==1.9.8
 
+# homeassistant.components.andersen_konnect
+andersen-ev==0.1.4
+
 # homeassistant.components.androidtv
 androidtv[async]==0.0.73
 

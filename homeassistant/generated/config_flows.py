@@ -44,6 +44,7 @@ FLOWS = {
         "ambiclimate",
         "ambient_station",
         "analytics_insights",
+        "andersen_konnect",
         "android_ip_webcam",
         "androidtv",
         "androidtv_remote",

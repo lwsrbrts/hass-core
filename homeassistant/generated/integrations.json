@@ -274,6 +274,12 @@
       "iot_class": "cloud_polling",
       "single_config_entry": true
     },
+    "andersen_konnect": {
+      "name": "Andersen Konnect",
+      "integration_type": "hub",
+      "config_flow": true,
+      "iot_class": "cloud_polling"
+    },
     "android_ip_webcam": {
       "name": "Android IP Webcam",
       "integration_type": "hub",
